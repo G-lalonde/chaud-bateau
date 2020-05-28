@@ -2,7 +2,7 @@
 
 # Chaud bateau iOS app
 
-[![download chaud bateau on the app store](img/appstore.svg)](https://apps.apple.com/us/app/chaud-bateau/id1514638943)
+[![download chaud bateau on the app store](./img/appstore.svg)](https://apps.apple.com/us/app/chaud-bateau/id1514638943)
 
 <table>
 <td><img src="./img/ScreenShotHome.png" width="200px" height="auto" alt="ScreenShotHome"></td>
