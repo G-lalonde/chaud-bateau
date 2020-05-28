@@ -1,6 +1,8 @@
+<img align="right" src="./img/logoText.jpg" width="100px" height="auto" alt="ScreenShot1">
+
 # Chaud bateau iOS app
 
-<img src="./img/logoText.jpg" width="100px" height="auto" alt="ScreenShot1">
+[![download chaud bateau on the app store](img/appstore.svg)](https://apps.apple.com/us/app/chaud-bateau/id1514638943)
 
 <table>
 <td><img src="./img/ScreenShotHome.png" width="200px" height="auto" alt="ScreenShotHome"></td>
