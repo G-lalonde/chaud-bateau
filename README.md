@@ -5,9 +5,9 @@
 [![download chaud bateau on the app store](./img/appstore.svg)](https://apps.apple.com/us/app/chaud-bateau/id1514638943)
 
 <table>
-<td><img src="./img/ScreenShotHome.png" width="200px" height="auto" alt="ScreenShotHome"></td>
-<td><img src="./img/ScreenShot1.png" width="200px" height="auto" alt="ScreenShot1"></td>
-<td><img src="./img/ScreenShot2.png" width="200px" height="auto" alt="ScreenShot2"></td>
-<td><img src="./img/ScreenShot3.png" width="200px" height="auto" alt="ScreenShot3"></td>
-<td><img src="./img/ScreenShot4.png" width="200px" height="auto" alt="ScreenShot4"></td>
+<td><img src="./img/6.5/screenHome.png" width="200px" height="auto" alt="screenHome"></td>
+<td><img src="./img/6.5/screen1.png" width="200px" height="auto" alt="screen1"></td>
+<td><img src="./img/6.5/screen2.png" width="200px" height="auto" alt="screen2"></td>
+<td><img src="./img/6.5/screen3.png" width="200px" height="auto" alt="screen3"></td>
+<td><img src="./img/6.5/screen4.png" width="200px" height="auto" alt="screen4"></td>
 </table>
